@@ -3,6 +3,12 @@
 Hey there! My name is Kerlin and I am a full-stack developer.
 <hr>
 
+Connect with me via email kerlin.augustin1@gmail.com or check out my Portfolio
+<hr>
+
+
+
+
 
 
 <!---
