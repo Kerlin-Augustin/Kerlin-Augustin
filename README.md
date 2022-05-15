@@ -3,10 +3,10 @@
 Hey there! My name is Kerlin and I am a full-stack developer.
 <hr>
 
-Connect with me via email kerlin.augustin1@gmail.com or check out my Portfolio
+Connect with me via email kerlin.augustin1@gmail.com or check out my <a href="kerlinaugustin.netlify.app">Portfolio</a>
 <hr>
 
-
+I am reachable on <a href="https://twitter.com/kerlinaugustin">twitter</a> and <a href="https://www.linkedin.com/in/kerlin-augustin/">linkedin.</a>
 
 
 
