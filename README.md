@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kerlin Augustin</h1>
 <h3 align="center">A passionate Software Engineer from Boston</h3>
 
-<p align="left"> <a href="https://twitter.com/kerlinaugustin" target="blank"><img src="https://img.shields.io/twitter/follow/kerlinaugustin?logo=twitter&style=for-the-badge" alt="kerlinaugustin" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/kerlinaugustin" target="blank"><img src="https://img.shields.io/twitter/follow/kerlinaugustin?logo=twitter&style=for-the-badge" alt="kerlinaugustin" /></a> </p> -->
 
 - 🔭 I’m currently working on **MoneyPool website**
 
