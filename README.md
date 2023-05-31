@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kerlin Augustin</h1>
-
-- 👨‍💻 All of my projects are available at [https://kerlinaugustin.netlify.app/](https://kerlinaugustin.netlify.app/)
-
 - 📫 How to reach me **kerlin.augustin1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
