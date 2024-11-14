@@ -4,7 +4,8 @@
 <p align="left">
 <a href="https://twitter.com/kerlinaugustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kerlinaugustin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kerlin-augustin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kerlin-augustin" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/kerlinaugustin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" alt="KerlinAugustinTwitch" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/kerlinaugustin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" alt="Twitch KerlinAugustin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kerlinaugustin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/52/YouTube_social_white_circle_%282017%29.svg" alt="YouTube KerlinAugustin" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
